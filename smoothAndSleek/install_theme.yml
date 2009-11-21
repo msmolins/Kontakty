@@ -1,0 +1,6 @@
+--- 
+content_path: "#content_inside_main:text"
+partials: 
+  last: content_inside_sidebar
+  sidebar: "#content_inside_sidebar"  
+  menu: "#header_inside"
