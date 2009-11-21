@@ -1035,3 +1035,2657 @@ Rendering contacts/index
 Rendered layouts/_menu (0.0ms)
 Rendered layouts/_sidebar (0.0ms)
 Completed in 36ms (View: 22, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:01:48) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 46ms (View: 33, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:02:09) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 129ms (View: 118, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:03:34) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 37ms (View: 21, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:05:21) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 43ms (View: 31, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:06:25) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 32ms (View: 20, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:06:28) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 34ms (View: 22, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:06:43) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 49ms (View: 23, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:07:59) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 36ms (View: 24, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:08:22) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 35ms (View: 22, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:56:50) [GET]
+  [4;36;1mContact Load (3.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 46ms (View: 21, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:58:57) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 37ms (View: 25, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 13:59:05) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 30ms (View: 18, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 13:59:09) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 23ms (View: 11, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:00:50) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined local variable or method `show_contact_path' for #<ActionView::Base:0x5cfcd08>) on line #6 of app/views/layouts/_menu.html.erb:
+3:   <ul>
+4:     <li><%= link_to "home", "/" %></li>
+5:     <li><%= link_to 'new contact', new_contact_path %></li>
+6:     <li><%= link_to 'all contacts', show_contact_path %></li>
+7:   </ul>
+8: </div>
+
+    app/views/layouts/_menu.html.erb:6
+    app/helpers/template_helper.rb:6:in `render_or_default'
+    app/views/layouts/application.html.erb:32
+    app/controllers/contacts_controller.rb:7:in `index'
+
+Rendered rescues/_trace (122.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:01:03) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+
+ActionView::TemplateError (undefined local variable or method `show_contact_path' for #<ActionView::Base:0x5d54814>) on line #6 of app/views/layouts/_menu.html.erb:
+3:   <ul>
+4:     <li><%= link_to "home", "/" %></li>
+5:     <li><%= link_to 'new contact', new_contact_path %></li>
+6:     <li><%= link_to 'all contacts', show_contact_path %></li>
+7:   </ul>
+8: </div>
+
+    app/views/layouts/_menu.html.erb:6
+    app/helpers/template_helper.rb:6:in `render_or_default'
+    app/views/layouts/application.html.erb:32
+    app/controllers/contacts_controller.rb:29:in `new'
+
+Rendered rescues/_trace (111.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:02:12) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined local variable or method `main_contact_path' for #<ActionView::Base:0x5d6617c>) on line #6 of app/views/layouts/_menu.html.erb:
+3:   <ul>
+4:     <li><%= link_to "home", "/" %></li>
+5:     <li><%= link_to 'new contact', new_contact_path %></li>
+6:     <li><%= link_to 'all contacts', main_contact_path %></li>
+7:   </ul>
+8: </div>
+
+    app/views/layouts/_menu.html.erb:6
+    app/helpers/template_helper.rb:6:in `render_or_default'
+    app/views/layouts/application.html.erb:32
+    app/controllers/contacts_controller.rb:7:in `index'
+
+Rendered rescues/_trace (113.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:03:03) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (2.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 32ms (View: 20, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:03:06) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 23ms (View: 11, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:03:13) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 47ms (View: 21, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:03:32) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"t", "nazwisko"=>"tygj", "tel"=>"e43534", "email"=>"manfred19@o2.pl"}}
+  [4;35;1mContact Create (1.0ms)[0m   [0mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('t', 'tygj', '2009-11-21 13:03:32', 'e43534', 'manfred19@o2.pl', '2009-11-21 13:03:32')[0m
+Redirected to http://localhost:3000/contacts/2
+Completed in 93ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:03:33) [GET]
+  Parameters: {"id"=>"2"}
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" WHERE ("contacts"."id" = 2) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 37ms (View: 22, DB: 1) | 200 OK [http://localhost/contacts/2]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:03:41) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 23ms (View: 10, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:03:44) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 28ms (View: 11, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:03:50) [GET]
+  Parameters: {"id"=>"main"}
+  [4;35;1mContact Load (0.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 0) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find Contact with ID=main):
+  app/controllers/contacts_controller.rb:16:in `show'
+
+Rendered rescues/_trace (157.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (not_found)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:09:25) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined local variable or method `con' for #<ActionView::Base:0x5e764a4>) on line #6 of app/views/layouts/_menu.html.erb:
+3:   <ul>
+4:     <li><%= link_to "home", "/" %></li>
+5:     <li><%= link_to 'new contact', new_contact_path %></li>
+6:     <li><%= link_to 'all contacts', con %></li>
+7:   </ul>
+8: </div>
+
+    app/views/layouts/_menu.html.erb:6
+    app/helpers/template_helper.rb:6:in `render_or_default'
+    app/views/layouts/application.html.erb:32
+    app/controllers/contacts_controller.rb:7:in `index'
+
+Rendered rescues/_trace (208.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:09:49) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (2.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 39ms (View: 20, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:09:54) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 42ms (View: 16, DB: 2) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:09:57) [GET]
+  [4;35;1mContact Load (3.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 46ms (View: 20, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:10:00) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 23ms (View: 11, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:10:02) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 31ms (View: 17, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:10:06) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>""}}
+  [4;35;1mContact Create (1.0ms)[0m   [0mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 13:10:06', '', '', '2009-11-21 13:10:06')[0m
+Redirected to http://localhost:3000/contacts/3
+Completed in 78ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:10:07) [GET]
+  Parameters: {"id"=>"3"}
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" WHERE ("contacts"."id" = 3) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 52ms (View: 23, DB: 1) | 200 OK [http://localhost/contacts/3]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:10:20) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (3.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 34ms (View: 21, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:10:23) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 61ms (View: 35, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:10:46) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"frytr", "nazwisko"=>"ertye", "tel"=>"ety", "email"=>"etye"}}
+  [4;36;1mContact Create (1.0ms)[0m   [0;1mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('frytr', 'ertye', '2009-11-21 13:10:46', 'ety', 'etye', '2009-11-21 13:10:46')[0m
+Redirected to http://localhost:3000/contacts/4
+Completed in 99ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:10:48) [GET]
+  Parameters: {"id"=>"4"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 4) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 27ms (View: 12, DB: 1) | 200 OK [http://localhost/contacts/4]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:10:51) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 23ms (View: 11, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:11:30) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (4.0ms)
+Completed in 173ms (View: 159, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#destroy (for 127.0.0.1 at 2009-11-21 14:11:43) [DELETE]
+  Parameters: {"authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "id"=>"3"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 3) [0m
+  [4;36;1mContact Destroy (1.0ms)[0m   [0;1mDELETE FROM "contacts" WHERE "id" = 3[0m
+Redirected to http://localhost:3000/contacts
+Completed in 63ms (DB: 2) | 302 Found [http://localhost/contacts/3]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:11:44) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 122ms (View: 110, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:12:24) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 105ms (View: 68, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:12:28) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 56ms (View: 44, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:13:40) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 56ms (View: 44, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:13:51) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 67ms (View: 42, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:14:22) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"Mairan", "nazwisko"=>"Smolinski", "tel"=>"0202874356028", "email"=>"msmolins@sigma.ug.gda.pl"}}
+  [4;35;1mContact Create (1.0ms)[0m   [0mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('Mairan', 'Smolinski', '2009-11-21 13:14:22', '0202874356028', 'msmolins@sigma.ug.gda.pl', '2009-11-21 13:14:22')[0m
+Redirected to http://localhost:3000/contacts/5
+Completed in 91ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:14:23) [GET]
+  Parameters: {"id"=>"5"}
+  [4;36;1mContact Load (0.0ms)[0m   [0;1mSELECT * FROM "contacts" WHERE ("contacts"."id" = 5) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 36ms (View: 22, DB: 0) | 200 OK [http://localhost/contacts/5]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:14:28) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 63ms (View: 38, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:15:33) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 59ms (View: 41, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:16:05) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (3.0ms)
+Rendered layouts/_sidebar (3.0ms)
+Completed in 166ms (View: 153, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-11-21 14:19:31) [GET]
+
+ActionController::RoutingError (No route matches "/images/av.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:19:54) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 117ms (View: 27, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:20:00) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>"riatla@interia.pl"}}
+  [4;35;1mContact Create (1.0ms)[0m   [0mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 13:20:00', '', 'riatla@interia.pl', '2009-11-21 13:20:00')[0m
+Redirected to http://localhost:3000/contacts/6
+Completed in 120ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:20:01) [GET]
+  Parameters: {"id"=>"6"}
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" WHERE ("contacts"."id" = 6) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 36ms (View: 22, DB: 1) | 200 OK [http://localhost/contacts/6]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:20:04) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 47, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:24:31) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 32ms (View: 18, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:24:37) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>"abhishek@parolkar.com"}}
+  [4;36;1mContact Create (1.0ms)[0m   [0;1mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 13:24:37', '', 'abhishek@parolkar.com', '2009-11-21 13:24:37')[0m
+Redirected to http://localhost:3000/contacts/7
+Completed in 98ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:24:39) [GET]
+  Parameters: {"id"=>"7"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 7) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 123ms (View: 12, DB: 1) | 200 OK [http://localhost/contacts/7]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:24:42) [GET]
+  [4;36;1mContact Load (4.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 86ms (View: 59, DB: 4) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#destroy (for 127.0.0.1 at 2009-11-21 14:24:49) [DELETE]
+  Parameters: {"authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "id"=>"4"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 4) [0m
+  [4;36;1mContact Destroy (2.0ms)[0m   [0;1mDELETE FROM "contacts" WHERE "id" = 4[0m
+Redirected to http://localhost:3000/contacts
+Completed in 112ms (DB: 3) | 302 Found [http://localhost/contacts/4]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:24:51) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 58ms (View: 44, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#destroy (for 127.0.0.1 at 2009-11-21 14:24:54) [DELETE]
+  Parameters: {"authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "id"=>"2"}
+  [4;36;1mContact Load (0.0ms)[0m   [0;1mSELECT * FROM "contacts" WHERE ("contacts"."id" = 2) [0m
+  [4;35;1mContact Destroy (1.0ms)[0m   [0mDELETE FROM "contacts" WHERE "id" = 2[0m
+Redirected to http://localhost:3000/contacts
+Completed in 84ms (DB: 1) | 302 Found [http://localhost/contacts/2]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:24:55) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 50ms (View: 38, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#destroy (for 127.0.0.1 at 2009-11-21 14:24:59) [DELETE]
+  Parameters: {"authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "id"=>"1"}
+  [4;35;1mContact Load (0.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 1) [0m
+  [4;36;1mContact Destroy (1.0ms)[0m   [0;1mDELETE FROM "contacts" WHERE "id" = 1[0m
+Redirected to http://localhost:3000/contacts
+Completed in 67ms (DB: 1) | 302 Found [http://localhost/contacts/1]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:25:00) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 44ms (View: 31, DB: 1) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:26:43) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 126ms (View: 18, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:26:48) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>"essen@dev-extend.eu"}}
+  [4;36;1mContact Create (1.0ms)[0m   [0;1mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 13:26:48', '', 'essen@dev-extend.eu', '2009-11-21 13:26:48')[0m
+Redirected to http://localhost:3000/contacts/8
+Completed in 97ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:26:49) [GET]
+  Parameters: {"id"=>"8"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 8) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 28ms (View: 13, DB: 1) | 200 OK [http://localhost/contacts/8]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:26:59) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 65ms (View: 37, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:27:09) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>"matwb@univ.gda.pl"}}
+  [4;36;1mContact Create (2.0ms)[0m   [0;1mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 13:27:09', '', 'matwb@univ.gda.pl', '2009-11-21 13:27:09')[0m
+Redirected to http://localhost:3000/contacts/9
+Completed in 109ms (DB: 2) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:27:10) [GET]
+  Parameters: {"id"=>"9"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 9) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 34ms (View: 13, DB: 1) | 200 OK [http://localhost/contacts/9]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:27:34) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 33ms (View: 17, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:27:39) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>"me@samlown.com"}}
+  [4;36;1mContact Create (1.0ms)[0m   [0;1mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 13:27:39', '', 'me@samlown.com', '2009-11-21 13:27:39')[0m
+Redirected to http://localhost:3000/contacts/10
+Completed in 91ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:27:41) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mContact Load (0.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 10) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 29ms (View: 16, DB: 0) | 200 OK [http://localhost/contacts/10]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:27:44) [GET]
+  [4;36;1mContact Load (3.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 175ms (View: 147, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:28:44) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 65ms (View: 51, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:28:53) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 63ms (View: 49, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:29:08) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:29:20) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 64ms (View: 51, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:29:37) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 73ms (View: 50, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:29:57) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 180ms (View: 167, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:30:21) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 73ms (View: 52, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:30:37) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:30:48) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:31:10) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:31:22) [GET]
+  [4;35;1mContact Load (3.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 88ms (View: 67, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:34:18) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 168ms (View: 154, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:35:03) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 65ms (View: 51, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:35:25) [GET]
+  [4;36;1mContact Load (4.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 79ms (View: 51, DB: 4) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:35:37) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 61ms (View: 48, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:35:56) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 65ms (View: 49, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:36:17) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 62ms (View: 49, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:36:40) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:36:57) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 67ms (View: 53, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:37:21) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:37:42) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 61ms (View: 48, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:37:54) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 62ms (View: 49, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:38:03) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 63ms (View: 49, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:38:12) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 64ms (View: 51, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:38:22) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 48, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:38:32) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 63ms (View: 48, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:42:28) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 72ms (View: 50, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:42:58) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:43:24) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 71ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:43:45) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 64ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:43:55) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 61ms (View: 48, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:44:04) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 64ms (View: 48, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:44:37) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:44:54) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:45:25) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 73ms (View: 48, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:46:03) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 64ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:46:21) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 64ms (View: 51, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:46:57) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 63ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:47:12) [GET]
+  [4;35;1mContact Load (3.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 71ms (View: 50, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:47:20) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 66ms (View: 52, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:47:38) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 62ms (View: 49, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:47:59) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 63ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:48:07) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 52ms (View: 25, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:48:20) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 63ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:48:24) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 42ms (View: 19, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 14:49:12) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>"MikeG1@larkfarm.com"}}
+  [4;36;1mContact Create (1.0ms)[0m   [0;1mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 13:49:12', '', 'MikeG1@larkfarm.com', '2009-11-21 13:49:12')[0m
+Redirected to http://localhost:3000/contacts/11
+Completed in 106ms (DB: 1) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:49:13) [GET]
+  Parameters: {"id"=>"11"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 11) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 27ms (View: 13, DB: 1) | 200 OK [http://localhost/contacts/11]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:49:17) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 81ms (View: 59, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#edit (for 127.0.0.1 at 2009-11-21 14:49:32) [GET]
+  Parameters: {"id"=>"11"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 11) [0m
+Rendering template within layouts/application
+Rendering contacts/edit
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 46ms (View: 30, DB: 1) | 200 OK [http://localhost/contacts/11/edit]
+
+
+Processing ContactsController#update (for 127.0.0.1 at 2009-11-21 14:50:09) [PUT]
+  Parameters: {"commit"=>"Update", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"", "email"=>"greg@nokes.name"}, "id"=>"11"}
+  [4;36;1mContact Load (0.0ms)[0m   [0;1mSELECT * FROM "contacts" WHERE ("contacts"."id" = 11) [0m
+  [4;35;1mContact Update (1.0ms)[0m   [0mUPDATE "contacts" SET "email" = 'greg@nokes.name', "updated_at" = '2009-11-21 13:50:09' WHERE "id" = 11[0m
+Redirected to http://localhost:3000/contacts/11
+Completed in 95ms (DB: 1) | 302 Found [http://localhost/contacts/11]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 14:50:10) [GET]
+  Parameters: {"id"=>"11"}
+  [4;36;1mContact Load (0.0ms)[0m   [0;1mSELECT * FROM "contacts" WHERE ("contacts"."id" = 11) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 26ms (View: 13, DB: 0) | 200 OK [http://localhost/contacts/11]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:50:15) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 78ms (View: 55, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:50:43) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 78ms (View: 63, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#edit (for 127.0.0.1 at 2009-11-21 14:50:47) [GET]
+  Parameters: {"id"=>"6"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 6) [0m
+Rendering template within layouts/application
+Rendering contacts/edit
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 48ms (View: 20, DB: 1) | 200 OK [http://localhost/contacts/6/edit]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 14:51:27) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 124ms (View: 111, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 14:51:30) [GET]
+  [4;36;1mContact Load (4.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 89ms (View: 61, DB: 4) | 200 OK [http://localhost/]
+WARNING: geokit-rails requires the Geokit gem. You either don't have the gem installed,
+or you haven't told Rails to require it. If you're using a recent version of Rails: 
+  config.gem "geokit" # in config/environment.rb
+and of course install the gem: sudo gem install geokit
+WARNING: geokit-rails requires the Geokit gem. You either don't have the gem installed,
+or you haven't told Rails to require it. If you're using a recent version of Rails: 
+  config.gem "geokit" # in config/environment.rb
+and of course install the gem: sudo gem install geokit
+WARNING: geokit-rails requires the Geokit gem. You either don't have the gem installed,
+or you haven't told Rails to require it. If you're using a recent version of Rails: 
+  config.gem "geokit" # in config/environment.rb
+and of course install the gem: sudo gem install geokit
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:43:07) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (2.0ms)
+Rendered layouts/_sidebar (4.0ms)
+Completed in 197ms (View: 185, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:43:12) [GET]
+  [4;35;1mContact Load (6.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 91ms (View: 59, DB: 6) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:43:24) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 70ms (View: 58, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#destroy (for 127.0.0.1 at 2009-11-21 15:43:35) [DELETE]
+  Parameters: {"authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "id"=>"6"}
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 6) [0m
+  [4;36;1mContact Destroy (1.0ms)[0m   [0;1mDELETE FROM "contacts" WHERE "id" = 6[0m
+Redirected to http://localhost:3000/contacts
+Completed in 59ms (DB: 2) | 302 Found [http://localhost/contacts/6]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:43:37) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 66ms (View: 53, DB: 2) | 200 OK [http://localhost/contacts]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:50:23) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.city) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: You are probably from: <%= @location.city %><br />
+27:  Country: <%= @location.country_code %>
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:7:in `index'
+
+Rendered rescues/_trace (197.0ms)
+Rendered rescues/_request_and_response (4.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2009-11-21 15:51:47) [GET]
+
+NameError (undefined local variable or method `request' for ApplicationController:Class):
+  app/controllers/application_controller.rb:8
+  app/controllers/contacts_controller.rb:1
+
+Rendered rescues/_trace (79.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2009-11-21 15:52:13) [GET]
+
+NameError (undefined local variable or method `request' for main:Object):
+  app/controllers/application_controller.rb:13
+  app/controllers/contacts_controller.rb:1
+
+Rendered rescues/_trace (199.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-11-21 15:52:38) [GET]
+
+NameError (undefined local variable or method `request' for main:Object):
+  app/controllers/contacts_controller.rb:86
+
+Rendered rescues/_trace (91.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:55:13) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2319ms (View: 52, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-11-21 15:56:35) [GET]
+
+NameError (undefined local variable or method `request' for ContactsController:Class):
+  app/controllers/contacts_controller.rb:4
+
+Rendered rescues/_trace (212.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:57:22) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 3217ms (View: 99, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:57:34) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3982ms (View: 119, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 15:59:47) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3471ms (View: 200, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:00:37) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 67ms (View: 42, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:01:51) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2940ms (View: 102, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:03:30) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1739ms (View: 105, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:04:29) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3309ms (View: 46, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:04:39) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2742ms (View: 102, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2009-11-21 16:05:04) [GET]
+
+NameError (undefined local variable or method `request' for ApplicationController:Class):
+  app/controllers/application_controller.rb:7
+  app/controllers/contacts_controller.rb:1
+
+Rendered rescues/_trace (75.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:08:10) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.city) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: You are probably from: <%= @location.city %><br />
+27: Country: <%= @location.city %>
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:7:in `index'
+
+Rendered rescues/_trace (128.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:08:35) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3060ms (View: 58, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:08:45) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 4299ms (View: 111, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:08:52) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 35ms (View: 21, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2009-11-21 16:08:57) [POST]
+  Parameters: {"commit"=>"Create", "authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "contact"=>{"imie"=>"", "nazwisko"=>"", "tel"=>"rty", "email"=>""}}
+  [4;36;1mContact Create (2.0ms)[0m   [0;1mINSERT INTO "contacts" ("imie", "nazwisko", "updated_at", "tel", "email", "created_at") VALUES('', '', '2009-11-21 15:09:00', 'rty', '', '2009-11-21 15:09:00')[0m
+Redirected to http://localhost:3000/contacts/12
+Completed in 3742ms (DB: 2) | 302 Found [http://localhost/contacts]
+
+
+Processing ContactsController#show (for 127.0.0.1 at 2009-11-21 16:09:02) [GET]
+  Parameters: {"id"=>"12"}
+  [4;35;1mContact Load (0.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 12) [0m
+Rendering template within layouts/application
+Rendering contacts/show
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 39ms (View: 24, DB: 0) | 200 OK [http://localhost/contacts/12]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:09:05) [GET]
+  [4;36;1mContact Load (3.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1774ms (View: 108, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#destroy (for 127.0.0.1 at 2009-11-21 16:09:15) [DELETE]
+  Parameters: {"authenticity_token"=>"7xGpW63jOOcLpMVLpO6dJYFv28MpJc04KLzJ/i2eJik=", "id"=>"12"}
+  [4;35;1mContact Load (0.0ms)[0m   [0mSELECT * FROM "contacts" WHERE ("contacts"."id" = 12) [0m
+  [4;36;1mContact Destroy (1.0ms)[0m   [0;1mDELETE FROM "contacts" WHERE "id" = 12[0m
+Redirected to http://localhost:3000/contacts
+Completed in 81ms (DB: 1) | 302 Found [http://localhost/contacts/12]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:09:16) [GET]
+  [4;35;1mContact Load (7.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3628ms (View: 123, DB: 7) | 200 OK [http://localhost/contacts]
+WARNING: geokit-rails requires the Geokit gem. You either don't have the gem installed,
+or you haven't told Rails to require it. If you're using a recent version of Rails: 
+  config.gem "geokit" # in config/environment.rb
+and of course install the gem: sudo gem install geokit
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-11-21 16:19:31) [GET]
+
+SyntaxError (E:/studia/07/rails/Kontakty/Kontakty/app/controllers/contacts_controller.rb:91: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (72.0ms)
+Rendered rescues/_request_and_response (4.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:19:48) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.city) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: You are probably from: <%= @location.city %><br />
+27: Country: <%= @location.city %>
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:11:in `index'
+
+Rendered rescues/_trace (98.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:20:47) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.city) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: You are probably from: <%= @location.city %><br />
+27: Country: <%= @location.city %>
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:10:in `index'
+
+Rendered rescues/_trace (108.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:30:30) [GET]
+  [4;36;1mContact Load (6.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.city) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: You are probably from: <%= @location.city %><br />
+27: Country: <%= @location.city %>
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:10:in `index'
+
+Rendered rescues/_trace (209.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:30:47) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (8.0ms)
+Rendered layouts/_sidebar (4.0ms)
+Completed in 4318ms (View: 125, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:32:15) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 3672ms (View: 244, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:32:23) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.city) on line #3 of app/views/contacts/new.html.erb:
+1: <h1>New contact</h1>
+2: 
+3: You are probably from: <%= @location.city %><br />
+4: <% form_for(@contact) do |f| %>
+5:   <%= f.error_messages %>
+6: 
+
+    app/views/contacts/new.html.erb:3
+    app/controllers/contacts_controller.rb:33:in `new'
+
+Rendered rescues/_trace (98.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:32:54) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (5.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3210ms (View: 137, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:33:00) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1713ms (View: 43, DB: 0) | 200 OK [http://localhost/contacts/new]
+WARNING: geokit-rails requires the Geokit gem. You either don't have the gem installed,
+or you haven't told Rails to require it. If you're using a recent version of Rails: 
+  config.gem "geokit" # in config/environment.rb
+and of course install the gem: sudo gem install geokit
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:35:41) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3336ms (View: 148, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:35:48) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3970ms (View: 18, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:36:04) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3270ms (View: 57, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:36:07) [GET]
+  [4;36;1mContact Load (3.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1628ms (View: 54, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:36:15) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2860ms (View: 42, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:39:28) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3359ms (View: 145, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:39:37) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3978ms (View: 42, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:40:26) [GET]
+  [4;36;1mContact Load (3.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 4015ms (View: 133, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:40:48) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3121ms (View: 95, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:42:01) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 5281ms (View: 81, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:43:50) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 4039ms (View: 168, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:43:58) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1634ms (View: 39, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:44:35) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3994ms (View: 121, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:44:55) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2767ms (View: 113, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:51:15) [GET]
+  [4;35;1mContact Load (4.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+ERROR: compiling _run_erb_app47views47contacts47index46html46erb RAISED compile error
+E:/studia/07/rails/Kontakty/Kontakty/app/views/contacts/index.html.erb:26: syntax error, unexpected ')'
+@output_buffer.concat "Tu powinna byc nazwa miasta: "; @output_buffer.concat(( @location. ).to_s); @output_buffer.concat "<br />\n"
+                                                                                           ^
+Function body:           def _run_erb_app47views47contacts47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1>Listing contacts</h1>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<table>\n"
+@output_buffer.concat "  <tr>\n"
+@output_buffer.concat "    <th>Imie</th>\n"
+@output_buffer.concat "    <th>Nazwisko</th>\n"
+@output_buffer.concat "    <th>Email</th>\n"
+@output_buffer.concat "    <th>Tel</th>\n"
+@output_buffer.concat "  </tr>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "  Jaki\305\233 avatar go\305\233cia co to stworzy\305\202"; @output_buffer.concat((gravatar_image_tag('spam@spam.com'.gsub('spam', 'mdeering'), :alt => 'Michael Deering')).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  ";  @contacts.each do |contact| ; @output_buffer.concat "\n"
+@output_buffer.concat "    <tr>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.imie ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.nazwisko ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.email ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.tel ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( gravatar_image_tag(contact.email, :alt => default_gravatar_image) ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( link_to 'Show', contact ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( link_to 'Edit', edit_contact_path(contact) ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "    </tr>\n"
+@output_buffer.concat "  ";  end ; @output_buffer.concat "\n"
+@output_buffer.concat "</table>\n"
+@output_buffer.concat "Tu powinna byc nazwa miasta: "; @output_buffer.concat(( @location. ).to_s); @output_buffer.concat "<br />\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<br />\n"
+@output_buffer.concat "\n"
+@output_buffer.concat(( link_to 'New contact', new_contact_path ).to_s); @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: E:/studia/07/rails/Kontakty/Kontakty/app/views/contacts/index.html.erb:34:in `compile!'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:343:in `_render_with_layout'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:257:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:951:in `render_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:135:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:135:in `custom'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:179:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:179:in `respond'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:173:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:173:in `respond'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:107:in `respond_to'
+E:/studia/07/rails/Kontakty/Kontakty/app/controllers/contacts_controller.rb:9:in `index'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1331:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1331:in `perform_action_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:9:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:28:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/static.rb:31:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/log_tailer.rb:17:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:159:in `process_client'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `process_client'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `initialize'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `new'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `initialize'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `new'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/commands/server.rb:111
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+E:/studia/07/rails/Kontakty/Kontakty/app/views/contacts/index.html.erb:26: syntax error, unexpected ')'
+@output_buffer.concat "Tu powinna byc nazwa miasta: "; @output_buffer.concat(( @location. ).to_s); @output_buffer.concat "<br />\n"
+                                                                                           ^) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: Tu powinna byc nazwa miasta: <%= @location. %><br />
+27: 
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:34:in `compile!'
+    app/controllers/contacts_controller.rb:9:in `index'
+
+Rendered rescues/_trace (112.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:53:04) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+ERROR: compiling _run_erb_app47views47contacts47index46html46erb RAISED compile error
+E:/studia/07/rails/Kontakty/Kontakty/app/views/contacts/index.html.erb:26: syntax error, unexpected ')'
+@output_buffer.concat "Tu powinna byc nazwa miasta: "; @output_buffer.concat(( @location. ).to_s); @output_buffer.concat "<br />\n"
+                                                                                           ^
+Function body:           def _run_erb_app47views47contacts47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1>Listing contacts</h1>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<table>\n"
+@output_buffer.concat "  <tr>\n"
+@output_buffer.concat "    <th>Imie</th>\n"
+@output_buffer.concat "    <th>Nazwisko</th>\n"
+@output_buffer.concat "    <th>Email</th>\n"
+@output_buffer.concat "    <th>Tel</th>\n"
+@output_buffer.concat "  </tr>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "  Jaki\305\233 avatar go\305\233cia co to stworzy\305\202"; @output_buffer.concat((gravatar_image_tag('spam@spam.com'.gsub('spam', 'mdeering'), :alt => 'Michael Deering')).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  ";  @contacts.each do |contact| ; @output_buffer.concat "\n"
+@output_buffer.concat "    <tr>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.imie ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.nazwisko ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.email ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat((h contact.tel ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( gravatar_image_tag(contact.email, :alt => default_gravatar_image) ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( link_to 'Show', contact ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( link_to 'Edit', edit_contact_path(contact) ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "      <td>"; @output_buffer.concat(( link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete ).to_s); @output_buffer.concat "</td>\n"
+@output_buffer.concat "    </tr>\n"
+@output_buffer.concat "  ";  end ; @output_buffer.concat "\n"
+@output_buffer.concat "</table>\n"
+@output_buffer.concat "Tu powinna byc nazwa miasta: "; @output_buffer.concat(( @location. ).to_s); @output_buffer.concat "<br />\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<br />\n"
+@output_buffer.concat "\n"
+@output_buffer.concat(( link_to 'New contact', new_contact_path ).to_s); @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: E:/studia/07/rails/Kontakty/Kontakty/app/views/contacts/index.html.erb:34:in `compile!'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:343:in `_render_with_layout'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:257:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:951:in `render_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:135:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:135:in `custom'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:179:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:179:in `respond'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:173:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:173:in `respond'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/mime_responds.rb:107:in `respond_to'
+E:/studia/07/rails/Kontakty/Kontakty/app/controllers/contacts_controller.rb:9:in `index'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1331:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1331:in `perform_action_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:9:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/query_cache.rb:28:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/static.rb:31:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/rails/rack/log_tailer.rb:17:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:159:in `process_client'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:158:in `process_client'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `initialize'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `new'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:285:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `initialize'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `new'
+c:/ruby/lib/ruby/gems/1.8/gems/mongrel-1.1.5-x86-mswin32-60/lib/mongrel.rb:268:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.4/lib/commands/server.rb:111
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+E:/studia/07/rails/Kontakty/Kontakty/app/views/contacts/index.html.erb:26: syntax error, unexpected ')'
+@output_buffer.concat "Tu powinna byc nazwa miasta: "; @output_buffer.concat(( @location. ).to_s); @output_buffer.concat "<br />\n"
+                                                                                           ^) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: Tu powinna byc nazwa miasta: <%= @location. %><br />
+27: 
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:34:in `compile!'
+    app/controllers/contacts_controller.rb:9:in `index'
+
+Rendered rescues/_trace (364.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:53:40) [GET]
+  [4;35;1mContact Load (3.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1909ms (View: 82, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:53:55) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1646ms (View: 38, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:54:38) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 2314ms (View: 68, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:55:47) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1938ms (View: 53, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:55:54) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 651ms (View: 50, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:56:27) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1729ms (View: 58, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:56:40) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1819ms (View: 57, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:57:05) [GET]
+  [4;35;1mContact Load (7.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2549ms (View: 177, DB: 7) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:57:50) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (3.0ms)
+Completed in 1959ms (View: 77, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:58:21) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3095ms (View: 77, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:58:48) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2426ms (View: 73, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 16:59:48) [GET]
+  [4;35;1mContact Load (4.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Google geocoding. Address: 127.0.0.1. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>127.0.0.1</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>1 0 0 Texcoco, Boca del Río, Veracruz-Llave, Mexico</address>
+    <AddressDetails Accuracy="6" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>MX</CountryNameCode><CountryName>México</CountryName><AdministrativeArea><AdministrativeAreaName>Veracruz-Llave</AdministrativeAreaName><Locality><LocalityName>Boca del Río</LocalityName><Thoroughfare><ThoroughfareName>1 0 0 Texcoco</ThoroughfareName></Thoroughfare></Locality></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="19.1591550" south="19.1528598" east="-96.1207443" west="-96.1270395" />
+    </ExtendedData>
+    <Point><coordinates>-96.1238948,19.1559786,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2495ms (View: 71, DB: 4) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 16:59:53) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (2.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2113ms (View: 40, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:01:40) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3083ms (View: 62, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 17:01:48) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (4.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 6081ms (View: 49, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-11-21 17:04:07) [GET]
+
+SyntaxError (E:/studia/07/rails/Kontakty/Kontakty/app/controllers/contacts_controller.rb:8: no .<digit> floating literal anymore; put 0 before dot
+      @location = Geokit::Geocoders::IpGeocoder.geocode(153.19.7.230)
+                                                               ^
+E:/studia/07/rails/Kontakty/Kontakty/app/controllers/contacts_controller.rb:8: syntax error, unexpected tFLOAT
+      @location = Geokit::Geocoders::IpGeocoder.geocode(153.19.7.230)
+                                                                    ^):
+  
+
+Rendered rescues/_trace (72.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:06:24) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+
+NameError (undefined local variable or method `sigma' for #<ContactsController:0x5e10870>):
+  app/controllers/contacts_controller.rb:8:in `index'
+
+Rendered rescues/_trace (187.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:07:07) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Caught an error during Geocoder.ca geocoding call: undefined method `ArgumentError' for Geokit::Geocoders::CaGeocoder:Class
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 113ms (View: 78, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 17:07:13) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 4018ms (View: 52, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 17:07:21) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 1633ms (View: 20, DB: 0) | 200 OK [http://localhost/contacts/new]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:08:16) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Caught an error during Geocoder.ca geocoding call: undefined method `ArgumentError' for Geokit::Geocoders::CaGeocoder:Class
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined method `latt' for #<Geokit::GeoLoc:0x5e0c7c0>) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: Tu powinna byc nazwa miasta: <%= @location.latt %><br />
+27: 
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:9:in `index'
+
+Rendered rescues/_trace (108.0ms)
+Rendered rescues/_request_and_response (2.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:15:55) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: Gdańsk. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>Gdańsk</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>Gdańsk, Poland</address>
+    <AddressDetails Accuracy="4" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>PL</CountryNameCode><CountryName>Polska</CountryName><AdministrativeArea><AdministrativeAreaName>Pomorskie</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Gdańsk</SubAdministrativeAreaName><Locality><LocalityName>Gdańsk</LocalityName></Locality></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="54.4559402" south="54.2478468" east="18.9027572" west="18.3905196" />
+    </ExtendedData>
+    <Point><coordinates>18.6466384,54.3520252,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined method `city' for "PL":String) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: Tu powinna byc nazwa miasta: <%= @location.city %><br />
+27: 
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:9:in `index'
+
+Rendered rescues/_trace (136.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:16:39) [GET]
+  [4;35;1mContact Load (3.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (1.0ms)
+Completed in 3173ms (View: 147, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:17:41) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: Gdańsk. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>Gdańsk</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>Gdańsk, Poland</address>
+    <AddressDetails Accuracy="4" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>PL</CountryNameCode><CountryName>Polska</CountryName><AdministrativeArea><AdministrativeAreaName>Pomorskie</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Gdańsk</SubAdministrativeAreaName><Locality><LocalityName>Gdańsk</LocalityName></Locality></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="54.4559402" south="54.2478468" east="18.9027572" west="18.3905196" />
+    </ExtendedData>
+    <Point><coordinates>18.6466384,54.3520252,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined method `bias' for "PL":String) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: Tu powinna byc nazwa miasta: <%= @location.bias %><br />
+27: 
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:9:in `index'
+
+Rendered rescues/_trace (93.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:18:29) [GET]
+  [4;35;1mContact Load (1.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Google geocoding. Address: Gdańsk. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>Gdańsk</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>Gdańsk, Poland</address>
+    <AddressDetails Accuracy="4" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>PL</CountryNameCode><CountryName>Polska</CountryName><AdministrativeArea><AdministrativeAreaName>Pomorskie</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Gdańsk</SubAdministrativeAreaName><Locality><LocalityName>Gdańsk</LocalityName></Locality></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="54.4559402" south="54.2478468" east="18.9027572" west="18.3905196" />
+    </ExtendedData>
+    <Point><coordinates>18.6466384,54.3520252,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined method `code' for "PL":String) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: Tu powinna byc nazwa miasta: <%= @location.code %><br />
+27: 
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:9:in `index'
+
+Rendered rescues/_trace (91.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:19:16) [GET]
+  [4;36;1mContact Load (1.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Google geocoding. Address: Gdańsk. Result: <?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Response>
+  <name>Gdańsk</name>
+  <Status>
+    <code>200</code>
+    <request>geocode</request>
+  </Status>
+  <Placemark id="p1">
+    <address>Gdańsk, Poland</address>
+    <AddressDetails Accuracy="4" xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"><Country><CountryNameCode>PL</CountryNameCode><CountryName>Polska</CountryName><AdministrativeArea><AdministrativeAreaName>Pomorskie</AdministrativeAreaName><SubAdministrativeArea><SubAdministrativeAreaName>Gdańsk</SubAdministrativeAreaName><Locality><LocalityName>Gdańsk</LocalityName></Locality></SubAdministrativeArea></AdministrativeArea></Country></AddressDetails>
+    <ExtendedData>
+      <LatLonBox north="54.4559402" south="54.2478468" east="18.9027572" west="18.3905196" />
+    </ExtendedData>
+    <Point><coordinates>18.6466384,54.3520252,0</coordinates></Point>
+  </Placemark>
+</Response></kml>
+Rendering template within layouts/application
+Rendering contacts/index
+
+ActionView::TemplateError (undefined method `country_code' for "PL":String) on line #26 of app/views/contacts/index.html.erb:
+23:     </tr>
+24:   <% end %>
+25: </table>
+26: Tu powinna byc nazwa miasta: <%= @location.country_code %><br />
+27: 
+28: 
+29: <br />
+
+    app/views/contacts/index.html.erb:26
+    app/controllers/contacts_controller.rb:9:in `index'
+
+Rendered rescues/_trace (91.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:23:48) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 2320ms (View: 85, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:24:03) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+
+NameError (uninitialized constant Geokit::Geocoders::GoolgeGeocoder):
+  app/controllers/contacts_controller.rb:8:in `index'
+
+Rendered rescues/_trace (72.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:25:30) [GET]
+  [4;35;1mContact Load (2.0ms)[0m   [0mSELECT * FROM "contacts" [0m
+
+NameError (uninitialized constant Geokit::Geocoders::GoolgeGeocoder):
+  app/controllers/contacts_controller.rb:8:in `index'
+
+Rendered rescues/_trace (77.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2009-11-21 17:26:09) [GET]
+  [4;36;1mContact Load (2.0ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering template within layouts/application
+Rendering contacts/index
+Rendered layouts/_menu (1.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 4049ms (View: 182, DB: 2) | 200 OK [http://localhost/]
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2009-11-21 17:26:17) [GET]
+Rendering template within layouts/application
+Rendering contacts/new
+Rendered layouts/_menu (0.0ms)
+Rendered layouts/_sidebar (0.0ms)
+Completed in 3948ms (View: 37, DB: 0) | 200 OK [http://localhost/contacts/new]

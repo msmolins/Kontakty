@@ -8,20 +8,23 @@
     <th>Tel</th>
   </tr>
 
-
+  Jakiś avatar gościa co to stworzył<%=gravatar_image_tag('spam@spam.com'.gsub('spam', 'mdeering'), :alt => 'Michael Deering')%>
   <% @contacts.each do |contact| %>
     <tr>
+
       <td><%=h contact.imie %></td>
       <td><%=h contact.nazwisko %></td>
       <td><%=h contact.email %></td>
       <td><%=h contact.tel %></td>
+      <td><%= gravatar_image_tag(contact.email, :alt => default_gravatar_image) %></td>
       <td><%= link_to 'Show', contact %></td>
       <td><%= link_to 'Edit', edit_contact_path(contact) %></td>
       <td><%= link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete %></td>
     </tr>
   <% end %>
 </table>
-
+<br />
+Tu powinna być nazwa miasta: <%= @location.city %><br />
 <br />
 
 <%= link_to 'New contact', new_contact_path %>
