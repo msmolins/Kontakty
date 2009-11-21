@@ -1,6 +1,9 @@
 class ContactsController < ApplicationController
   # GET /contacts
   # GET /contacts.xml
+  USER_ID, PASSWORD = "tester", "pass123"
+  # Require authentication only for edit and delete operation
+  before_filter :authenticate, :except => [ :index, :show]
 
   
   def index
@@ -61,8 +64,6 @@ class ContactsController < ApplicationController
   # PUT /contacts/1.xml
   def update
     @contact = Contact.find(params[:id])
-  
-
     respond_to do |format|
       if @contact.update_attributes(params[:contact])
         flash[:notice] = 'Contact was successfully updated.'
@@ -86,4 +87,13 @@ class ContactsController < ApplicationController
       format.xml  { head :ok }
     end
   end
+  
+  private
+  def authenticate
+    authenticate_or_request_with_http_basic do |id, password|
+      id == USER_ID && password == PASSWORD
+    end
+  end
+
+
 end
